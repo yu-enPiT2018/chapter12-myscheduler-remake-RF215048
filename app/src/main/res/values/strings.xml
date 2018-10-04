@@ -1,4 +1,9 @@
 <resources>
     <string name="app_name">MyScheduler</string>
     <string name="action_settings">Settings</string>
+    <string name="dateText">日付：</string>
+    <string name="titleText">タイトル：</string>
+    <string name="detailText">詳細：</string>
+    <string name="saveButton">保存</string>
+    <string name="deleteButton">削除</string>
 </resources>
